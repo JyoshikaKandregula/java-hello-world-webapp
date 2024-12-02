@@ -83,7 +83,7 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Jyoshika</h1>
     <p>Web Developer | Designer | Problem Solver</p>
     <nav>
       <a href="#about">About</a>
@@ -121,14 +121,14 @@
     <h2>Contact</h2>
     <p>I'd love to hear from you! Feel free to reach out through the following channels:</p>
     <ul>
-      <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+      <li>Email: <a href="mailto:jyoshika.kandregula@gmail.com">jyoshika.kandregula@gmail.com</a></li>
       <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
-      <li>GitHub: <a href="https://github.com/yourgithub">github.com/yourgithub</a></li>
+      <li>GitHub: <a href="https://github.com/JyoshikaKandregula">github.com/JyoshikaKandregula</a></li>
     </ul>
   </section>
 
   <footer>
-    <p>&copy; 2024 Your Name. All rights reserved.</p>
+    <p>&copy; 2024 Jyoshika. All rights reserved.</p>
   </footer>
 </body>
 </html>
